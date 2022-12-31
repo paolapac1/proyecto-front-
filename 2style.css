@@ -1,0 +1,61 @@
+
+                body{background:linear-gradient(rgb(255, 236, 239),rgb(213, 243, 213));}
+
+                h1{ color: rgb(186, 6, 123);margin: 0 100px 50px 280px; border:rgb(69, 28, 41) 3px solid;}
+                
+                #tabla1{margin: 80px 260px;}
+                caption{text-decoration: underline;margin: 30px;}
+
+                    #tabla1, th,td{border: 2px solid black;border-collapse:collapse; font-size: 25px;}
+                    tr:nth-child(even){background-color: rgb(237, 175, 175);}
+                    tr:nth-child(odd){background-color: rgb(252, 240, 222);}
+
+                ul{
+
+                    ol{list-style-type: style upper-roman circle;background-color:bisque; }
+
+                    
+                }
+                li{float:left;margin: 0 80px ;}
+
+                    th,td{padding: 10px; ;}
+
+                             #titulo_principal{color: rgb(21, 21, 154)}
+
+                                .titulo1{text-decoration: underline}
+
+                                #foto2{margin:  50px; 78px
+                                 }
+
+                                    #link_provedores{margin: 80px 380px; }
+
+                                    #link_provedores{color: red;}
+
+                                    #link_contactanos{font-size: 30px;
+                                        display: block;margin: 20px 150px;}
+
+                                #link_contactanos:active{color: chartreuse;}
+
+                                #link_contactanos:hover{color: violet;}
+
+                                #link_contactanos:visited{color: fuchsia;}
+                                
+
+                            
+
+                            #mapa{ margin: 60px 50px;
+                            }
+
+                            #video{display: inline-block;
+                            }
+                    body{background-color: hotpink;
+                    
+                    }
+
+                    form{ width: 40; margin: auto
+                        
+                      ;background-color: black rgba(0, 0, 0, 0,3);}
+            
+                        form div{ margin: 10px; 10xp}
+
+
